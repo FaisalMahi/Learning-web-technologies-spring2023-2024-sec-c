@@ -3,8 +3,8 @@
         <name>John Doe</name>
         <address>
             <flat></flat>
-            <house>#38</house>
-            <road>#3</road>
+            <house>38</house>
+            <road>3</road>
             <location>Banani,Dhaka</location>
         </address>
         <department>Sales</department>
@@ -13,9 +13,9 @@
     <person sr="2">
         <name>Mark Zuckerberg</name>
         <address>
-            <flat>#A/1</flat>
-            <house>#20</house>
-            <road>#20</road>
+            <flat>A/1</flat>
+            <house>20</house>
+            <road>20</road>
             <location>Mirpur,Dhaka</location>
         </address>
         <department>Accounts</department>
@@ -25,8 +25,8 @@
         <name>Ala Voski</name>
         <address>
             <flat></flat>
-            <house>#38</house>
-            <road>#3</road>
+            <house>38</house>
+            <road>3</road>
             <location>Mothijhel</location>
         </address>
         <department>Human Resource</department>
